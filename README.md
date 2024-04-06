@@ -1,7 +1,6 @@
 # How Customers Buy Insurance?
 
-![image](https://github.com/namiaaaaa/Bajaj-Allianz-Life-insurance/assets/29650102/4ef82301-9439-4083-8f1d-49567e9e4891)
-
+<img src="https://github.com/namiaaaaa/Bajaj-Allianz-Life-insurance/assets/29650102/4ef82301-9439-4083-8f1d-49567e9e4891" width="300" height="300">
 
 ## Description
 The COVID-19 pandemic accelerated the shift towards online life insurance purchases in India. Despite this, traditional agents still play a vital role in introducing insurance concepts. Understanding customer decision-making in this dynamic landscape is key.
